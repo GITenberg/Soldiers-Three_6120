@@ -1,0 +1,36 @@
+_repo: Soldiers-Three_6120
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'Soldiers -- Fiction'
+- GITenberg
+tableOfContents: The God From The Machine -- Of Those Called -- Private Learoyd'S
+  Story -- The Big Drunk Draf' -- The Wreck Of The Visigoth -- The Solid Muldoon --
+  With The Main Guard -- In The Matter Of A Private -- Black Jack -- Poor Dear Mamma
+  -- The World Without -- The Tents Of Kedar -- With Any Amazement -- The Garden Of
+  Eden -- Fatima -- The Valley Of The Shadow -- The Swelling Of Jordan -- Dray Wara
+  Yow Dee -- The Judgment Of Dungara -- At Howli Thana -- Gemini -- At Twenty-Two
+  -- In Flood Time -- The Sending Of Dana Da -- On The City Wall.
+title: Soldiers Three
+url: http://www.gutenberg.org/ebooks/6120
